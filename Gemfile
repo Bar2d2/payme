@@ -9,6 +9,7 @@ gem "turbo-rails", "~> 2.0", ">= 2.0.11"
 gem "stimulus-rails", "~> 1.3", ">= 1.3.4"
 gem "jbuilder", "~> 2.13"
 gem "tailwindcss-rails", "~> 3.0"
+gem "passwordless", "~> 1.8"
 gem "tzinfo-data", "~> 1.2024", ">= 1.2024.2", platforms: %i[ windows jruby ]
 gem "bootsnap", "~> 1.18", ">= 1.18.4", require: false
 
